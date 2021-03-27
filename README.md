@@ -1,2 +1,7 @@
-# Redes-de-Informa-o
-REDES DE INFORMAÇÃO: UMA PROPOSTA DE INOVAÇÃO PARA A COMUNICAÇÃO CIENTÍFICA BRASILEIRA
+# Redes_infomacao
+**REDES DE INFORMAÇÃO: UMA PROPOSTA DE INOVAÇÃO PARA A COMUNICAÇÃO CIENTÍFICA BRASILEIRA**
+**Resumo:** O problema de pesquisa aqui envolvido refere-se em como pesquisadores e usuários da informação realizam suas buscas de interesse na internet e em quais canais essas buscas são realizadas. Com objetivo de propor a construção de um canal de divulgação científica de acordo com os interesses do usuário, averiguando os dados coletados na pesquisa com o usuários, neste caminho buscou-se mapear as respostas dos respondentes da pesquisa, identificar seus interesses, elaborar indicadores estatísticos, realizar teste de validação de metodologia e por fim elaborar a análise para a tomada de decisão. Na metodologia buscou-se analisar todos os dados coletados por meio de uma pesquisa exploratória realizada com a comunidade envolvida.  Empenhando-se no levantamento dos dados e análises descritivas. Mostrando a sociedade inserida na pesquisa que é a comunidade acadêmica e público em geral. Justifica-se então esta investigação, pautada em uma curiosidade dos pesquisadores e das pesquisadoras em conhecer a faixa de interesse do público relacionado à ciência e a tecnologia, e como podemos medir as possíveis respostas através dos dados estatísticos criando ferramentas inovadoras que auxiliem o usuário no cotidiano e o aproxime da ciência, da inovação e da tecnologia, além claro de colaborar com a divulgação científica, rompendo assim grandes barreiras comunicativas.  
+
+
+**Palavras-Chave:** Comunicação Científica; Inovação Científica; Ciência de Dados; Biblioteconomia orientada a dados.
+
