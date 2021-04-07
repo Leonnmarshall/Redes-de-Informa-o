@@ -5,3 +5,4 @@
 
 **Palavras-Chave:** Comunicação Científica; Inovação Científica; Ciência de Dados; Biblioteconomia orientada a dados.
 
+**Pitch: (https://www.youtube.com/watch?v=SL4eYjJcW5U) 
